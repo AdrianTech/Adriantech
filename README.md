@@ -1,11 +1,10 @@
-### Hi there, I'm Adrian - aka [Adriantech][website] 👋
+### Hi there, I'm Adrian - aka [Adriantech][https://adriantech.eu] :bulb:
 
-## I'm a Husband, Father, Developer, and Teacher!
-- 🔭 I’m currently working on a [VS Code Course][website]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+## I'm a Self-Taught JavaScript Developer from Poland!
+- :fire: I’m currently working on my next full stack project where I'm using Vue.js and Node.js
+- I’m looking for a job, new projects, new colleagues -> new future
+- 2020 Goals: developing skills in PHP & JavaScript 
+- 2021 Goals: Be a JavaScript master ;)
 
 ### Languages and Tools:
 
