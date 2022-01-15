@@ -1,13 +1,7 @@
 ### Hi there, I'm Adrian - aka Adriantech :bulb:
 
 ## I'm a Self-Taught JavaScript Developer from Poland!
-- :fire: I’m currently working on my next full stack project where I'm using Vue.js and Node.js
-- I’m looking for a job, new projects, new colleagues -> new future
-- I have over 2 years of experience in JavaScript
-- My preferred JS frameworks/libraries? React, Vue, Express
-- Pizza or pasta? Both!
-- 2020 Goals: developing skills in PHP & JavaScript 
-- 2021 Goals: Be a JavaScript master ;)
+- :fire: I’m currently working as a Junior Web Developer at Helion.pl
 
 ### Languages and Tools:
 
