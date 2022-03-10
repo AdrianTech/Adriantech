@@ -1,7 +1,9 @@
 ### Hi there, I'm Adrian - aka Adriantech :bulb:
 
 ## I'm a Self-Taught JavaScript Developer from Poland!
-- :fire: I’m currently working as a Junior Web Developer at Helion.pl
+- :fire: Programming enthusiast is looking for a job!
+- I'm currently learning the NestJS framework.
+- My goal is to be a Node.js Dev or PHP dev.
 
 ### Languages and Tools:
 
