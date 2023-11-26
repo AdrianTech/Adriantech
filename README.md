@@ -2,8 +2,8 @@
 
 ## I'm a Self-Taught JavaScript Developer from Poland!
 - :fire: Programming enthusiast is looking for a job!
-- I'm currently learning the NestJS framework.
-- My goal is to be a Node.js Dev or PHP dev.
+- I'm currently exploring React Native...
+- My goal is to be either a Web Developer or a Mobile React Native Developer
 
 ### Languages and Tools:
 
